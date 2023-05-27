@@ -1,0 +1,15 @@
+C:\Users\bezha\OneDrive\Рабочий стол\gigebreins\zoom vstrechi\5-я встреча\bin\Debug\net6.0\5-я встреча.exe
+C:\Users\bezha\OneDrive\Рабочий стол\gigebreins\zoom vstrechi\5-я встреча\bin\Debug\net6.0\5-я встреча.deps.json
+C:\Users\bezha\OneDrive\Рабочий стол\gigebreins\zoom vstrechi\5-я встреча\bin\Debug\net6.0\5-я встреча.runtimeconfig.json
+C:\Users\bezha\OneDrive\Рабочий стол\gigebreins\zoom vstrechi\5-я встреча\bin\Debug\net6.0\5-я встреча.dll
+C:\Users\bezha\OneDrive\Рабочий стол\gigebreins\zoom vstrechi\5-я встреча\bin\Debug\net6.0\5-я встреча.pdb
+C:\Users\bezha\OneDrive\Рабочий стол\gigebreins\zoom vstrechi\5-я встреча\obj\Debug\net6.0\5-я встреча.csproj.AssemblyReference.cache
+C:\Users\bezha\OneDrive\Рабочий стол\gigebreins\zoom vstrechi\5-я встреча\obj\Debug\net6.0\5-я встреча.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bezha\OneDrive\Рабочий стол\gigebreins\zoom vstrechi\5-я встреча\obj\Debug\net6.0\5-я встреча.AssemblyInfoInputs.cache
+C:\Users\bezha\OneDrive\Рабочий стол\gigebreins\zoom vstrechi\5-я встреча\obj\Debug\net6.0\5-я встреча.AssemblyInfo.cs
+C:\Users\bezha\OneDrive\Рабочий стол\gigebreins\zoom vstrechi\5-я встреча\obj\Debug\net6.0\5-я встреча.csproj.CoreCompileInputs.cache
+C:\Users\bezha\OneDrive\Рабочий стол\gigebreins\zoom vstrechi\5-я встреча\obj\Debug\net6.0\5-я встреча.dll
+C:\Users\bezha\OneDrive\Рабочий стол\gigebreins\zoom vstrechi\5-я встреча\obj\Debug\net6.0\refint\5-я встреча.dll
+C:\Users\bezha\OneDrive\Рабочий стол\gigebreins\zoom vstrechi\5-я встреча\obj\Debug\net6.0\5-я встреча.pdb
+C:\Users\bezha\OneDrive\Рабочий стол\gigebreins\zoom vstrechi\5-я встреча\obj\Debug\net6.0\5-я встреча.genruntimeconfig.cache
+C:\Users\bezha\OneDrive\Рабочий стол\gigebreins\zoom vstrechi\5-я встреча\obj\Debug\net6.0\ref\5-я встреча.dll
